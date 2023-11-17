@@ -20,7 +20,7 @@ In short: It's a folder collection abaut standard and experimental js techniques
 
 #### Project tabs:
 
-[ List of [all repos](https://github.com/orgs/js-collection/repositories) | TAG: [Experiments;]() [Tuts;]() [Scripts;]() ]
+[ List of [all repos](https://github.com/orgs/js-collection/repositories) | TAG: [Experiments;]() [Resources;]() [Tutorial;]() [Scripts;]() ]
 
 ---
 
