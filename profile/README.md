@@ -20,9 +20,7 @@ In short: It's a folder collection abaut standard and experimental js techniques
 
 ### Project tabs:
 
-
-
-[ List of <b>[all repos](https://github.com/orgs/js-collection/repositories)</b> | TAG: [<sub>![](https://img.shields.io/badge/EXPERIMENTS-lavender.svg)</sub>](https://github.com/search?q=topic%3Aexperiments+org%3Ajs-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/RESOURCES-lavender.svg)</sub>](https://github.com/search?q=topic%3Aresources+org%3Ajs-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/TUTORIALS-lavender.svg)</sub>](https://github.com/search?q=topic%3Atutorial+org%3Ajs-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/SCRIPTS-lavender.svg)</sub>](https://github.com/search?q=topic%3Ascript+org%3Ajs-collection&type=Repositories)</b> ]
+[<sub>![](https://img.shields.io/badge/ALL_REPOSITORIES-lavender.svg)</sub>](https://github.com/orgs/js-collection/repositories) ︙ [<sub>![](https://img.shields.io/badge/EXPERIMENTS-lavender.svg)</sub>](https://github.com/search?q=topic%3Aexperiments+org%3Ajs-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/RESOURCES-lavender.svg)</sub>](https://github.com/search?q=topic%3Aresources+org%3Ajs-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/TUTORIALS-lavender.svg)</sub>](https://github.com/search?q=topic%3Atutorial+org%3Ajs-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/SCRIPTS-lavender.svg)</sub>](https://github.com/search?q=topic%3Ascript+org%3Ajs-collection&type=Repositories)</b>
 
 ---
 
