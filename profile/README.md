@@ -7,7 +7,7 @@
 This space was created as a binder for several dedicated repos for releasing of differents javascript assets (like experiments, tutorials, patterns, techs and more) for improvment ourselves and you.<br>
 Everything you see is legacy, unofficial material built for business purposes and release in 99% of case in MIT, GNU, OPEN SOFTWARE (read in anycase the licence and wiki inside every sub repos)<br><br>
 
-In short: It's a folder collection abaut standard and experimental js techniques and projects created by @berto-dev and @deveet-technologies for everyone. <b>SUPPORT IT VIA LIKES AND DONATIONSSSS !🍻</b><br><br>
+In short: It's a folder collection abaut standard and experimental js techniques and projects created by @berto-dev and @deveet-technologies for everyone. <b>[SUPPORT IT VIA LIKES AND DONATIONSSSS !🍻](https://github.com/sponsors/js-collection)</b><br><br>
 
 ---
 
