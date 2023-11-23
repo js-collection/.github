@@ -1,5 +1,6 @@
-
-<img src="https://raw.githubusercontent.com/js-collection/.github/main/banner.jscollection.webp">
+<a href="https://github.com/sponsors/js-collection">
+  <img src="https://raw.githubusercontent.com/js-collection/.github/main/banner.jscollection.webp">
+</a>
 
 ---
 
